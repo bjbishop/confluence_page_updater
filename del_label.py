@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # [[file:~/tsk/confluence_page_updater/readme.txt::delete_label][delete_label]]
-# Add a label to a page
+# Remove a label from a page
 import requests
 import getpass
 import subprocess
